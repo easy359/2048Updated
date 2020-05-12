@@ -1,3 +1,5 @@
 # 2048Updated
 
-Updated version of 2048 repository.
+Updated version of my 2048 repository.
+
+Created in 2015.
